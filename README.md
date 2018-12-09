@@ -4,7 +4,17 @@
 
 npm install
 
-start mongod + mongo shell
+**start mongod + mongo shell**
+
+brew services list - brew services start mongodb
+
+mongo **to get into shell**
+
+show dbs
+
+use <List>
+
+show collection
 
 ### Exercise 1
 
